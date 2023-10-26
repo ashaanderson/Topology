@@ -19,13 +19,13 @@ To activate the virtual environment:
 - Windows: `.\venv\Scripts\activate`
 
 ### Install dependencies
-Install all required dependencies from `requirements.txt` file
+Install all required dependencies from `Dependencies.txt` file
 ```shell
-pip install -r requirements.txt
+pip install -r Dependencies.txt
 ```
 
 ### Run Tracing Program
-This script generates all other addresses found from a access point. The result is stored under `./results` directory locally.
+This script generates all other addresses found from a access point. The result is stored under `./result` directory locally.
 ```shell
 python main.py
 ```
