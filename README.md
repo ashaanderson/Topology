@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# Topology-project
-=======
-# CSCI-449-Project-1
+ Network Topology Discovery Project
 
-## Setup Development Environment
+## Project Goal
+The goal of this project is to discover and document the network topology of the Howard University campus network.
+
+## Approach
+We have employed a systematic approach to uncover the network topology. This involved running traceroute to various IP addresses within the Howard University network. The Python code below was used to automate the process:
 
 ### Setup Virtual Environment
 Create a Python virtual environment using the following command:
